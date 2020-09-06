@@ -514,6 +514,18 @@ p {
   color: inherit;
   text-decoration: underline;
 }
+/* 
+#about table{
+  margin: 2rem 0rem;
+}
+
+#about tr .pd_item_title{
+  margin: .5rem 0px .5rem 1rem;
+}
+
+#about tr .pd_item_info{
+  margin: .5rem 0px;
+} */
 
 #soft-skills .soft-skill-item{
   display: inline-block;
