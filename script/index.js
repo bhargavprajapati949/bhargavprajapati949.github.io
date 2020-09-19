@@ -17,8 +17,7 @@ $(document).ready(function(){
 
 $(window).scroll(function(){
 
-//scroll top btn
-
+    //scroll top btn
     if($(window).width() > 767) {
 		if ($(this).scrollTop() > 600) {
 			$('#scroll-top').fadeIn(300);
