@@ -84,7 +84,7 @@ $("#sendMsg").on('click', function(e){
         return;
     }
 
-    var url = "https://script.google.com/macros/s/AKfycbxMgbp8voLGdlr4ZiTo2yAMtBott-yV6IX5KtZ4Idbyl5yyBLY-/exec";
+    var url = "https://script.google.com/macros/s/AKfycbwWXLinjIBdEKwhI_Hr3NtOaENKykj0xrgCdZB9yY8_7XoKFCXqL5Oa8pu5r-zPUKVe5A/exec";
     var jqxhr = $.ajax({
         url: url,
         method: "POST",
